@@ -2,7 +2,7 @@
 
 **`Web Designer UI/UX Front End`**
 
-"[Fabiana](https://www.youtube.com/@creativecode_webdesiner)", Je m'appelle Fabiana Alves, j'ai 37 ans et je viens d'Anicuns Goiás. J'ai terminé mes études secondaires à Nexus, avec le cours d'assistante technique administrative. Actuellement, après plusieurs expériences professionnelles, j'ai souhaité me recentrer sur le web design. Ma formation en Web Design n'est qu'un début, qui me donnera des bases solides qui me permettront d'aller encore plus loin dans mes projets. "[creative code](https://www.instagram.com/creativecode_webdesigner)".
+"[Fabiana](https://www.youtube.com/@creativecode_webdesiner)", Je m'appelle Fabiana Alves, j'e suis Brésilienne je viens d'Anicuns Goiás. J'ai terminé mes études secondaires à Nexus, avec le cours d'assistante technique administrative. Actuellement, après plusieurs expériences professionnelles, j'ai souhaité me recentrer sur le web design. Ma formation en Web Design n'est qu'un début, qui me donnera des bases solides qui me permettront d'aller encore plus loin dans mes projets. "[creative code](https://www.instagram.com/creativecode_webdesigner)".
 
 <p align="left">
     <a href="https://www.youtube.com/@creativecode_webdesiner">
