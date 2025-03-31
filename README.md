@@ -26,7 +26,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/fabiana?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://www.instagram.com/creativecode_webdesigner">
+    <a href="[https://www.instagram.com/creativecode_webdesigner](https://www.instagram.com/webdesigner.hub?igsh=YjZqM25rc29oajhm)">
         <img 
             alt="Seguidores" 
             title="Suivez-moi sur Instagram" 
